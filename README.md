@@ -7,7 +7,7 @@
 ```bash
 $ git pull
 ```
-**At the moment we still need to push the first version of the Jupyter Notebook**
+**At the moment the Jupyter Notebook allows for reproducing Figs. 15 and 16**
 
 This project will be updated in order be kept functional for further updates to [**idea.deploy**](https://github.com/lullimat/idea.deploy).
 
