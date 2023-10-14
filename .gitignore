@@ -2,4 +2,7 @@
 *~
 reproduced-figures/
 reproduced-results/
+honeycombs-cycles-paper.json
+transition_matrix_N2.hdf5
+transition_matrix_N3.hdf5
 !.gitignore
